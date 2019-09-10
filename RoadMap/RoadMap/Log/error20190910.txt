@@ -1,0 +1,26 @@
+2019-09-10 16:13:25.809 +07:00 [ERR] [200]:The method or operation is not implemented.
+2019-09-10 16:14:14.707 +07:00 [ERR] [200]:Invalid object name 'Books'.
+2019-09-10 16:15:25.967 +07:00 [ERR] [200]:Invalid column name 'Age'.
+Invalid column name 'CreatedBy'.
+Invalid column name 'CreatedTime'.
+Invalid column name 'DeletedBy'.
+Invalid column name 'DeletedTime'.
+Invalid column name 'Email'.
+Invalid column name 'Gender'.
+Invalid column name 'IsDeleted'.
+Invalid column name 'LastModifyBy'.
+Invalid column name 'LastModifyTime'.
+Invalid column name 'Password'.
+Invalid column name 'Username'.
+2019-09-10 16:16:14.946 +07:00 [ERR] [200]:Invalid column name 'Age'.
+Invalid column name 'CreatedBy'.
+Invalid column name 'CreatedTime'.
+Invalid column name 'DeletedBy'.
+Invalid column name 'DeletedTime'.
+Invalid column name 'Email'.
+Invalid column name 'Gender'.
+Invalid column name 'IsDeleted'.
+Invalid column name 'LastModifyBy'.
+Invalid column name 'LastModifyTime'.
+Invalid column name 'Password'.
+Invalid column name 'Username'.

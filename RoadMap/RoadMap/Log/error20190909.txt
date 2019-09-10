@@ -1,0 +1,11 @@
+2019-09-09 14:39:33.772 +07:00 [ERR] [200]:An exception was thrown while activating Service.Implement.UserService.
+2019-09-09 14:40:10.244 +07:00 [ERR] [200]:An exception was thrown while activating Service.Implement.UserService.
+2019-09-09 14:40:11.223 +07:00 [ERR] [200]:An exception was thrown while activating Service.Implement.UserService.
+2019-09-09 15:23:25.210 +07:00 [ERR] [200]:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+UserEntity -> UserInfoViewModel
+Repository.Entity.UserEntity -> Service.ViewModel.User.UserInfoViewModel
+2019-09-09 15:26:00.656 +07:00 [ERR] [200]:'string' is not a valid 24 digit hex string.
+2019-09-09 15:28:35.785 +07:00 [ERR] [200]:Value cannot be null.
+Parameter name: str

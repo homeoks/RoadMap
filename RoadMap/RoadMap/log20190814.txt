@@ -1,0 +1,2 @@
+2019-08-14 14:48:11.522 +07:00 [INF] Hello, Serilog!
+2019-08-14 14:48:11.623 +07:00 [ERR] testsetsetsetset

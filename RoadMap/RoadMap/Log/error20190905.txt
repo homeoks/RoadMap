@@ -1,0 +1,20 @@
+2019-09-05 14:39:11.730 +07:00 [ERR] [200]:Exception of type 'System.Exception' was thrown.
+2019-09-05 14:39:28.060 +07:00 [ERR] [200]:Attempted to divide by zero.
+2019-09-05 14:39:39.259 +07:00 [ERR] [200]:System error.
+2019-09-05 14:40:41.944 +07:00 [ERR] [200]:zz
+2019-09-05 14:44:10.904 +07:00 [ERR] [200]:zz
+2019-09-05 14:59:08.568 +07:00 [ERR] [200]:IDX10603: Decryption failed. Keys tried: '[PII is hidden]'.
+Exceptions caught:
+ '[PII is hidden]'.
+token: '[PII is hidden]'
+Parameter name: KeySize
+2019-09-05 15:01:25.475 +07:00 [ERR] [200]:IDX10603: Decryption failed. Keys tried: 'HS256'.
+Exceptions caught:
+ '128'.
+token: '32'
+Parameter name: KeySize
+2019-09-05 15:02:51.700 +07:00 [ERR] [200]:IDX10603: Decryption failed. Keys tried: 'HS256'.
+Exceptions caught:
+ '128'.
+token: '104'
+Parameter name: KeySize
